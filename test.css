@@ -1,0 +1,68 @@
+body{
+    background-image: url("curls.png");
+}
+p{
+
+}
+h3{
+
+}
+li{
+
+}
+a{
+  color: white;
+  font-weight: bold;
+  font-size: 24px;
+  text-decoration: none;
+}
+#Header{
+    width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    background-color:#8E41D5;
+}
+#Header h1{
+    font-size: 60px;
+    font-family: "Passion One";
+    color: #FFBC00;
+    font-weight: bold;
+}
+#LeftNav{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    float: left;
+    text-align: center;
+    padding-left:8px;
+    background-color:#8E41D5;
+
+}
+#LeftNav img{
+
+}
+#LeftNav ul{
+
+}
+#LeftNav h3{
+
+}
+#Content{
+    width: 700px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 10px;
+    border: solid 8px black;
+    text-align: center;
+    padding: 15px;
+    background-color:#8E41D5;
+}
+#Footer{
+    text-align: center;
+    background-color:#8E41D5;
+}
