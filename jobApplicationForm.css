@@ -1,0 +1,63 @@
+body{
+  margin-left: 20px;
+  margin-right: 10px;
+  background-image: url("regal.png");
+}
+#Header{
+  text-align: left;
+  font-size: 25px;
+  margin-left: 10px;
+  margin-bottom: 10px;
+  word-spacing: 5px;
+  font-family: "Times New Roman", Georgia, Serif;
+}
+div.field{
+  margin-right: 220px;
+  font-size:20px;
+  float: left;
+}
+input[type="text"]{
+  width: 700px;
+  height: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border:solid 1px rgb(180, 180, 180);
+}
+input[type="password"]{
+  width: 700px;
+  height: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border:solid 1px rgb(180, 180, 180);
+}
+select[name="state"]{
+  width: 700px;
+  height: 25px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 20px;
+  border-radius: 5px;
+  border:solid 1px rgb(180, 180, 180);
+}
+input[type="checkbox"]{
+  width: 50px;
+}
+input[type="submit"]{
+  width:200px;
+  color:#FFF;
+  font-size: 20px;
+  display:block;
+  text-decoration:none;
+  margin:0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  border-radius:5px;
+  border:solid 1px rgb(43, 158, 234);
+  background:rgb(43, 175, 234);
+  text-align:center;
+  padding:20px 30px;
+}
